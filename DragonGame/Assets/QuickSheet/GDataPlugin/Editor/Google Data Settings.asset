@@ -16,12 +16,12 @@ MonoBehaviour:
   RuntimePath: 
   EditorPath: 
   OAuth2Data:
-    client_id: 
+    client_id: 271788318532-quom1u9dsgmhi33n9hp6v7n6dqultd05.apps.googleusercontent.com
     auth_uri: 
     token_uri: 
     auth_provider_x509_cert_url: 
-    client_secret: 
+    client_secret: ksDLqst2r_25dZP4jbX2bb-a
     redirect_uris: []
-  _AccessCode: Paste AcecessCode here!
-  _RefreshToken: 
-  _AccessToken: 
+  _AccessCode: 4/1AY0e-g4QGbxKMAtmMj50o4chnRT9cOs59Hp6-7SbXBWcudd0Z7-5dPA9-I4
+  _RefreshToken: 1//0enDTszwtlKXvCgYIARAAGA4SNwF-L9IrE23scys_h4-mpFmpZcuMUZJrZmZcXS0oDF3b2xW49tJlzDkXQQAKFecj7ZOEEJbdQgE
+  _AccessToken: ya29.a0AfH6SMBF2xY-3XPhXRZbsiREMfbIYJCu6asL4vaD1clryH9Ii2uylc5Z53dnEXJ2CeIg4_Mso-uZtK-_YUjUmLTLaPU0Raab-2NIcW6QGWBbuSq4pXt1R4DTQC3yRE_ohEJ4ioppi0CeOMYXu8PUuKjT1xAO
