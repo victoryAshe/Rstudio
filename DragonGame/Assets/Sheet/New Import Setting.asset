@@ -16,14 +16,42 @@ MonoBehaviour:
   scriptFilePath: QuickSheet/Runtime/
   editorScriptFilePath: QuickSheet/GDataPlugin/Editor/
   sheetName: RStudio
-  workSheetName: DragonList
+  workSheetName: Dragon_User
   columnHeaderList:
   - type: 3
     name: Code
     isEnable: 0
     isArray: 0
   - type: 1
-    name: DragonName
+    name: DragonNames
+    isEnable: 0
+    isArray: 0
+  - type: 3
+    name: Dragon_Level
+    isEnable: 0
+    isArray: 0
+  - type: 5
+    name: Basic_ATK
+    isEnable: 0
+    isArray: 0
+  - type: 3
+    name: Grade
+    isEnable: 0
+    isArray: 0
+  - type: 1
+    name: Property
+    isEnable: 0
+    isArray: 0
+  - type: 5
+    name: Skill_ATK
+    isEnable: 0
+    isArray: 0
+  - type: 3
+    name: State
+    isEnable: 0
+    isArray: 0
+  - type: 3
+    name: Skin
     isEnable: 0
     isArray: 0
   AccessCode: 
