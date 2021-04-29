@@ -24,4 +24,6 @@ public class GameManager : MonoBehaviour
         //시작하기 버튼을 누르면 메인게임으로 이동
         SceneManager.LoadScene("MainGameScene");
     }
+
+
 }
