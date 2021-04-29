@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -15,5 +16,12 @@ public class GameManager : MonoBehaviour
         _parseCsv = GameObject.FindObjectOfType<CSVManager>();
         //엑셀 데이터의 정보를 불러옵니다.
         Debug.Log(_parseCsv.ReadCSV("아르곤").Dragon_Level);
+    }
+
+
+    public void StartMainGameScene()
+    {
+        //시작하기 버튼을 누르면 메인게임으로 이동
+        SceneManager.LoadScene("MainGameScene");
     }
 }
